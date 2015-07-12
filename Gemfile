@@ -1,0 +1,7 @@
+gem 'oj'
+gem 'oj_mimic_json'
+gem 'figaro'
+gem 'redis'
+gem 'hiredis'
+gem 'pusher'
+gem 'foreman'

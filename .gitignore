@@ -1,0 +1,4 @@
+config/application.yml
+.env
+Gemfile.lock
+*~
