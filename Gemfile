@@ -1,3 +1,4 @@
+source 'https://rubygems.org'
 gem 'oj'
 gem 'oj_mimic_json'
 gem 'figaro'
